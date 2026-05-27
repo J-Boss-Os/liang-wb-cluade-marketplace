@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/J-Boss-Os/liang-wb-web-page-cc.git",
-        "ref": "master"
+        "ref": "main"
       },
       "author": {
         "name": "liang-wb AI Team"
