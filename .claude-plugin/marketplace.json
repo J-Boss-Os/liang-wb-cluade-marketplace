@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "liang-wb-marketplace",
+  "description": "liang 插件市场",
+  "owner": {
+    "name": "liang 插件市场"
+  },
+  "plugins": [
+    {
+      "name": "liang-wb-web-page-cc",
+      "description": "克隆网页，清晰网页的插件",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/J-Boss-Os/liang-wb-web-page-cc.git",
+        "ref": "master"
+      },
+      "author": {
+        "name": "liang-wb AI Team"
+      }
+    }
+  ]
+}
